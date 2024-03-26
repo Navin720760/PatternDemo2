@@ -23,7 +23,7 @@ public class CriticalPatterns {
 			}
 			
 			
-			System.out.print("    ");   
+			System.out.print("    ");              //print the space after the first pattern
 			
 			for(j=0;j<n;j++) 
 			{
@@ -35,7 +35,7 @@ public class CriticalPatterns {
 			}
 			
 			
-			 System.out.print("    ");
+			 System.out.print("    ");              //print the space after the pattern
 				
 				for(j=0;j<n;j++) 
 				{
@@ -47,7 +47,7 @@ public class CriticalPatterns {
 				}
 			
 			
-			System.out.print("    ");
+			System.out.print("    ");               //print the space after the pattern
 			
 			for(j=0;j<n;j++) 
 			{
@@ -58,7 +58,7 @@ public class CriticalPatterns {
 				
 			}
 			
-			System.out.print("    ");
+			System.out.print("    ");                    //print the space after the pattern
 			
 			for(j=0;j<n;j++) 
 			{
@@ -69,7 +69,7 @@ public class CriticalPatterns {
 				
 			}
 			
-			  System.out.print("    ");
+			  System.out.print("    ");                  //print the space after the pattern
 				
 				for(j=0;j<n;j++) 
 				{
@@ -80,9 +80,9 @@ public class CriticalPatterns {
 					
 				}
 				
-				
-               System.out.print("    ");
-				
+				 
+                          System.out.print("    ");                //print the space after the pattern
+				 
 				for(j=0;j<n;j++) 
 				{
 					if(j==0&&i>(n-1)/2 || i==n-1&&j<(n-1)/2 || i-j>=(n-1)/2)
@@ -92,7 +92,7 @@ public class CriticalPatterns {
 					
 				}
 				
-				 System.out.print("    ");
+				 System.out.print("    ");             //print the space after the pattern 
 					
 					for(j=0;j<n;j++) 
 					{
@@ -104,7 +104,7 @@ public class CriticalPatterns {
 					}
 					
 					
-					 System.out.print("    ");
+					 System.out.print("    ");             //print the space after the pattern
 						
 						for(j=0;j<n;j++) 
 						{
@@ -116,7 +116,7 @@ public class CriticalPatterns {
 						}
 						
 				
-						 System.out.print("    ");
+						 System.out.print("    ");            //print the space after the pattern
 							
 							for(j=0;j<n;j++) 
 							{
@@ -128,7 +128,7 @@ public class CriticalPatterns {
 							}
 			
 				
-							 System.out.print("    ");
+							 System.out.print("    ");        //print the space after the pattern
 								
 								for(j=0;j<n;j++) 
 								{
