@@ -1,9 +1,9 @@
-
+//D-->diagonal
 //D1-->i==j
 //D2-->i+j==n-1
 //p1-->i+j==(n-1)/2
 //p2-->i-j==(n-1)/2
-//p3-->j-i==(j-i)/2
+//p3-->j-i==(n-1)/2
 //p4-->i+j==(n-1)+(n-1)/2 (or) 3*((n-1)/2)
 public class CriticalPatterns {
 
